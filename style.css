@@ -1,0 +1,71 @@
+body {
+    font-family: 'Times New Roman';
+}
+
+h1,
+h2,
+h3,
+.Times-font {
+    font-family: 'Times New Roman';
+}
+
+
+/* 네비게이션 영역 */
+.nav-link:hover,
+.nav-link.active 
+{color: #fd8be8 !important;}
+
+.nav-link {
+	color:#0a0a0a !important;
+}
+
+/* 헤더 영역 */
+header {
+    background-image: url(images/main-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.img01 {padding-right:20px}
+
+.navbar-brand {color:#000000 !important;}
+
+
+/* 서비스 섹션 */
+.card-hover:hover {
+    background-color: #ffffff;
+}
+
+.star h3 {text-align:center; padding-top:20px; font-size:20px}
+
+.btn-outline-p {color:#ffffff !important; border:1px solid #ffffff !important; }
+
+/* products 영역 */
+#sns-links {
+    background-color: #ffc2e1;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.fixed-topC {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    background: #ffffff;
+    opacity: 1.0;
+}
+
+.four-container h3 {
+	text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.season_wrap {background:#f9d0d7}
+
+.bg-light {background:#f4f4f4 !important}
